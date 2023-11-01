@@ -15,7 +15,7 @@ export default function Home() {
           necessitatibus.
         </p>
       </section>
-      <div className="flex justify-center">
+      <div className="flex gap-6 justify-center">
         <Button>Click Me 😉</Button>
         <Button>Learn Now</Button>
       </div>
